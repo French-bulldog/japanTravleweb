@@ -246,5 +246,20 @@ body {
                 }
             }
         }
+        footer{
+            section.logo{
+                text-align: center;
+                img{
+                    width: 30vw;
+                }
+            }
+            section.links{
+                a{
+                    img{
+                        width: 10vw;
+                    }
+                }
+            }
+        }
     }
 }
